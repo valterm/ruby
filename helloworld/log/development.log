@@ -1,0 +1,15 @@
+Started GET "/" for 127.0.0.1 at 2020-12-22 19:55:46 +0100
+  [1m[35m (0.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/circo/.gem/ruby/2.7.0/gems/railties-6.1.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/circo/.gem/ruby/2.7.0/gems/railties-6.1.0/lib/rails/templates/rails/welcome/index.html.erb (Duration: 5.8ms | Allocations: 439)
+Completed 200 OK in 19ms (Views: 10.5ms | ActiveRecord: 0.0ms | Allocations: 3575)
+
+
+Started GET "/" for 127.0.0.1 at 2020-12-22 19:56:25 +0100
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/circo/.gem/ruby/2.7.0/gems/railties-6.1.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/circo/.gem/ruby/2.7.0/gems/railties-6.1.0/lib/rails/templates/rails/welcome/index.html.erb (Duration: 28.2ms | Allocations: 219)
+Completed 200 OK in 34ms (Views: 30.7ms | ActiveRecord: 0.0ms | Allocations: 834)
+
+
